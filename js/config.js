@@ -1,6 +1,6 @@
 /*
 --------------------------------------
---------LEAKED BY ANONYMOUS LEAKR --------------
+-------- In Development ---------------
 ----------------------------------------
       _           _    _                     _ 
      | |         | |  | |                   | |
@@ -11,7 +11,7 @@
     version 2.04
 	
 --------------------------------------
---------LEAKED BY ANONYMOUS LEAKR --------------
+-------- In Development ---------------
 ----------------------------------------	
 */
 
@@ -58,9 +58,12 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
+	"backgrounds/images/touhou.jpg",
 	"backgrounds/images/touhou01.jpg",
 	"backgrounds/images/touhou02.jpg",
-	"backgrounds/images/touhou03.jpg"
+	"backgrounds/images/touhou03.jpg",
+	"backgrounds/images/touhou04.jpg",
+	"backgrounds/images/touhou05.jpg"
 ];
 
 /*Random background images order?*/
@@ -140,6 +143,6 @@ var l_messagesFade = 1000;
 
 /*
 --------------------------------------
---------LEAKED BY ANONYMOUS LEAKR --------------
+--------In Development--------------
 ----------------------------------------
 */
